@@ -2,3 +2,4 @@
 jeessy/ddns-go
 mysql:8.0.31
 redis
+bellsoft/liberica-openjdk-debian:17.0.11-cds
