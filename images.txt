@@ -6,3 +6,4 @@ bellsoft/liberica-openjdk-debian:17.0.11-cds
 jellyfin/jellyfin
 eclipse-temurin:21-jdk-alpine
 nginx:1.22.1
+nginx:1.23.4
